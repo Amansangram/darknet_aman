@@ -1,0 +1,16 @@
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0007.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0063.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0091.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0122.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0156.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0157.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0162.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0165.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0187.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0203.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0216.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0275.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0282.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0286.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0331.jpg
+/home/cap_price/catkin_ws/src/darknet_ros/darknet/test/data_folder/validset/frame0354.jpg

@@ -1,0 +1,15 @@
+yolo_model:
+
+  config_file:
+    name: yolov3-tiny-duckie.cfg
+  weight_file:
+    name: yolov3-tiny-duckie.weights
+  threshold:
+    value: 0.1
+  detection_classes:
+    names:
+      - bot
+      - duckie
+      - stop_sign
+      - road_sign
+      

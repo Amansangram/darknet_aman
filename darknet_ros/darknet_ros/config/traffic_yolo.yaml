@@ -1,0 +1,13 @@
+yolo_model:
+
+  config_file:
+    name: traffic.cfg
+  weight_file:
+    name: traffic_tiny-yolo-duckie.weights
+  threshold:
+    value: 0.5
+  detection_classes:
+    names:
+      - 20 Km/h
+      - 60 Km/h
+      - STOP

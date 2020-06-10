@@ -1,0 +1,6 @@
+classes= 4
+train  = test/data_folder/train.txt
+valid  = test/data_folder/valid.txt
+names = data/traffic_duckie-multi.names
+backup = duckie_backup
+
